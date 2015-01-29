@@ -1,0 +1,19 @@
+{
+  "name": "metamap",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jeremyshantz/metamap",
+  "authors": [
+    "Jeremy Shantz <jeremy@shantz.io>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
