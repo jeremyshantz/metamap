@@ -1,0 +1,26 @@
+{
+  "name": "metamap",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jeremyshantz/metamap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremyshantz/metamap/issues"
+  },
+  "homepage": "https://github.com/jeremyshantz/metamap",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-load-plugins": "^0.8.0",
+    "gulp-minify-html": "^0.1.8",
+    "gulp-print": "^1.1.0",
+    "gulp-util": "^3.0.2"
+  }
+}
